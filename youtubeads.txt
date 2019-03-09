@@ -32,6 +32,7 @@ ff02::3 ip6-allhosts
 # Hosts contributed by Tiago Gomes
 #
 
+0.0.0.0 yt3.ggpht.com
 
 0.0.0.0 r1---sn-25ge7ns7.googlevideo.com
 0.0.0.0 r1---sn-25glen7e.googlevideo.com
